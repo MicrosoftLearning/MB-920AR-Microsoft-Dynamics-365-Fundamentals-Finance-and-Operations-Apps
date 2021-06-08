@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 1: إنشاء منتج خصم'
     module: 'الوحدة 3: تعرف على أساسيات Microsoft Dynamics 365 Commerce'
