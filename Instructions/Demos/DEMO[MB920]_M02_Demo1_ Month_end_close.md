@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'العرض التوضيحي 1: إقفال نهاية الشهر'
     module: 'الوحدة 2: تعرف على أساسيات Microsoft Dynamics 365 Finance'
