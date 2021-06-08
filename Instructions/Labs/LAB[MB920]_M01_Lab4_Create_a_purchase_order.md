@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 4: إنشاء أمر شراء'
     module: 'الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management'
