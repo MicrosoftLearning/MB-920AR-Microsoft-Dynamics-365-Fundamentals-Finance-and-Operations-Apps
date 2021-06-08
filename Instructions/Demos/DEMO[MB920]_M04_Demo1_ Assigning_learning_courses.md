@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'العرض التوضيحي 1: تعيين دورات التعلم'
     module: 'الوحدة 4: تعرف على أساسيات Microsoft Dynamics 365 Human Resources'

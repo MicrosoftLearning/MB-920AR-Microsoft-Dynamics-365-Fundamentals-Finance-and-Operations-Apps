@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'العرض التوضيحي 1: تسعير Project Operations'
     module: 'الوحدة 5: تعرف على أساسيات Microsoft Dynamics 365 Project Operations'
