@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'العرض التوضيحي 3: استكشف تكاليف المشروع'
     module: 'الوحدة 5: تعرف على أساسيات Microsoft Dynamics 365 Project Operations'
