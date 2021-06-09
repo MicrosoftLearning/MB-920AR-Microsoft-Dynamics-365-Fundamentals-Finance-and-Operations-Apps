@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 6: إنشاء أمر إنتاج'
     module: 'الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management'

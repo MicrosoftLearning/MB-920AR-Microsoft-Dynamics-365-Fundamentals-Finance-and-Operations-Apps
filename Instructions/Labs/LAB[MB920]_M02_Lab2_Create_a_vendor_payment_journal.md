@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 2: إنشاء دفتر يومية الدفع للمورّد'
     module: 'الوحدة 2: تعرف على أساسيات Microsoft Dynamics 365 Finance'

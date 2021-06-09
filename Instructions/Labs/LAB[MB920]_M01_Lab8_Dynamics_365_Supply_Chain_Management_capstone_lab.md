@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 8: معمل مشروع التخرّج Dynamics 365 Supply Chain Management'
     module: 'الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management'

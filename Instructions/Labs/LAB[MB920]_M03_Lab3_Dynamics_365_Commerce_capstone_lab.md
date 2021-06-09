@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 3: معمل مشروع التخرّج Dynamics 365 Commerce'
     module: 'الوحدة 3: تعرف على أساسيات Microsoft Dynamics 365 Commerce'

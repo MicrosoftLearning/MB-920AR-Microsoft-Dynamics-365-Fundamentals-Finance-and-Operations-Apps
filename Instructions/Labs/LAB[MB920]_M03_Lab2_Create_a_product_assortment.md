@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 2: إنشاء عملية فرز منتج'
     module: 'الوحدة 3: تعرف على أساسيات Microsoft Dynamics 365 Commerce'

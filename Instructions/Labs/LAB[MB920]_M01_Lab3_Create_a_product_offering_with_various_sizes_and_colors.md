@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 3: إنشاء عرض منتج بأحجام وألوان مختلفة'
     module: 'الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management'

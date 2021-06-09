@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 1: معمل مشروع التخرّج Dynamics 365 Human Resources'
     module: 'الوحدة 4: تعرف على أساسيات Microsoft Dynamics 365 Human Resources'

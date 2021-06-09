@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 1: إنشاء بُعد مالي'
     module: 'الوحدة 2: تعرف على أساسيات Microsoft Dynamics 365 Finance'

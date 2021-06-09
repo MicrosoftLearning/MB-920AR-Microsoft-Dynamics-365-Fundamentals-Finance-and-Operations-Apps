@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 1: تصفح تطبيقات Finance and Operations Apps'
     module: 'الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management'

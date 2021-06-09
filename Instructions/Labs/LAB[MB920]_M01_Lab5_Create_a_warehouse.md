@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'المعمل 5: إنشاء مستودع'
     module: 'الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management'
