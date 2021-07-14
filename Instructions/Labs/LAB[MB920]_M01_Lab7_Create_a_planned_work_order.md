@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'النشاط المعملي 7: إنشاء أمر عمل صيانة'
     module: 'الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management'
