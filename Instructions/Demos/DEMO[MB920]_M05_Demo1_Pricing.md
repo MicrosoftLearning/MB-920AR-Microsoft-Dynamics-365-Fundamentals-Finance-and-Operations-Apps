@@ -1,8 +1,30 @@
----
-demo:
-    title: 'العرض التوضيحي 1: تسعير Project Operations'
-    module: 'الوحدة 5: تعرف على أساسيات Microsoft Dynamics 365 Project Operations'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>demo</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>العرض التوضيحي 1: تسعير Project Operations</div></td>
+  <td><div>الوحدة 5: تعرف على أساسيات Microsoft Dynamics 365 Project Operations</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 ## العرض التوضيحي 1 - تسعير Project Operations
 
