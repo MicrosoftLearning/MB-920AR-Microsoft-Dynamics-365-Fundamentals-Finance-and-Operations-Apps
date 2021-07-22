@@ -1,8 +1,30 @@
----
-lab:
-    title: 'النشاط المعملي 7: إنشاء أمر عمل صيانة'
-    module: 'الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>النشاط المعملي 7: إنشاء أمر عمل صيانة</div></td>
+  <td><div>الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 Supply Chain Management</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 ## النشاط المعملي 7 - إنشاء أمر عمل صيانة
 
