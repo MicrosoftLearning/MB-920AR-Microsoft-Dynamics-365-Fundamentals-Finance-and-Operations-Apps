@@ -1,8 +1,30 @@
----
-lab:
-    title: 'المعمل 3: معمل مشروع التخرّج Dynamics 365 Finance'
-    module: 'الوحدة 2: تعرف على أساسيات Microsoft Dynamics 365 Finance'
----
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
+  <thead>
+  <tr>
+  <th>lab</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div><table>
+  <thead>
+  <tr>
+  <th>title</th>
+  <th>module</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td><div>المعمل 3: معمل مشروع التخرّج Dynamics 365 Finance</div></td>
+  <td><div>الوحدة 2: تعرف على أساسيات Microsoft Dynamics 365 Finance</div></td>
+  </tr>
+  </tbody>
+</table>
+</div></td>
+  </tr>
+  </tbody>
+</table>
 
 ## المعمل 3 - معمل مشروع التخرّج Dynamics 365 Finance
 
