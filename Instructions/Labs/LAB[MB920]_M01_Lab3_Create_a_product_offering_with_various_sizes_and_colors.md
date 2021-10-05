@@ -1,4 +1,4 @@
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
     <article class="markdown-body entry-content container-lg" itemprop="text"><table>
   <thead>
   <tr>
@@ -29,7 +29,7 @@
 
 # الوحدة 1: تعرف على أساسيات Microsoft Dynamics 365 - Supply Chain Management
 
-## المعمل 3 - إنشاء عرض منتج بأحجام وألوان مختلفة
+## النشاط المعملي 3 - إنشاء منتج جديد
 
 ## الأهداف
 
