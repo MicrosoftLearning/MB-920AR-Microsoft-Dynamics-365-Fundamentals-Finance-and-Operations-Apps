@@ -1,4 +1,4 @@
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
     <article class="markdown-body entry-content container-lg" itemprop="text"><table>
   <thead>
   <tr>
@@ -131,11 +131,11 @@
 
 1. قم بتمييز أحد الموردين من القائمة، وعلى اليمين، حدد **قائمة المعلومات ذات الصلة**، وراجع المعلومات الإضافية المتوفرة.
 
-1. في قائمة المورّدين، حدد **Northwind Traders**.
+1. في قائمة المورّدين، حدد **Acme Office Supplies**.
 
 1. حدد قائمة **المجموعة**، ثم حدد عنوان عمود **مجموعة الموردين.**
 
-    ![لقطة شاشة لعنوان عمود مجموعة المورّدين لـ Northwind Traders.](./media/m1-common-all-vendor-group-menu.png)
+    ![لقطة شاشة لعنوان عمود مجموعة المورّدين لـ Acme Office Supplies.](./media/m1-common-vendor-group-menu-24493345.png)
 
 1. يتوفر في العديد من القوائم إمكانية الفرز والتصفية. استخدم عوامل التصفية لتحديد موقع محتوى الحقل الذي تبحث عنه بسرعة.
 
